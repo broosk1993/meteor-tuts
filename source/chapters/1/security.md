@@ -9,7 +9,7 @@ you need to more and more careful on how you handle this. We'll show you first h
 secure our methods and publications, then you will be shown some tips and tricks to handle 
 it for an evergrowing code base.
 
-## Securing Methods & Publicaions
+## Securing Methods & Publications
 
 So, remember the Methods ?
 
