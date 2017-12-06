@@ -17,8 +17,8 @@ Just like you would see on Facebook !
 
 ## Publishing in Meteor
 
-So how would we explain publishing in a very simple manner ? Well, let's assume you're talking to a friend about you application,
- and you want to give him access to your data. I other words, you are going to make that data **public** for him.
+So how would we explain publishing in a very simple manner ? Well, let's assume you're talking to a friend about your application,
+ and you want to give him access to your data. In other words, you are going to make that data **public** for him.
  As such,  **publishing** would be equivalent to saying to him "I will give you access to this data !".
  
  Let's start by inserting code into "/imports/api/donuts/publication.js":
